@@ -1,0 +1,54 @@
+h1 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+p {
+  border: 3px dotted rgb(156, 155, 255);
+  border-radius: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 0px 200px 0px 200px;
+  padding: 20px;
+  }
+
+/* .title {
+  color: white; 
+  background-color: rgb(23, 23, 141);
+  margin: 50px 50px 50px 50px;
+  text-align: center; 
+  font-size: 230%;
+  } */
+  
+body {
+  background-image: url("https://64.media.tumblr.com/76c1c75aeb2ba9ce4e66aa6eb1210a19/tumblr_pv2stijaib1wg7k9po1_500.gifv");background-repeat: no-repeat; 
+  background-size: cover;
+  }
+
+.indexparagraph {
+  text-align: center;
+  color: whitesmoke;
+  background-color: rgb(47, 27, 121);
+}
+  
+.aboutusbutton {
+  color: rgb(255, 255, 255);
+  display: block;
+  cursor: pointer;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(175, 79, 230); 
+  font-size: 25px;
+  border-radius: 5px;} 
+  
+  button:hover {
+  background-color: rgb(116, 36, 148);
+  border-radius: 5px; 
+  }
+
+
+
+background-color: rgb(67, 67, 151)
+rgb(253, 199, 255)
+rgb(150, 231, 255)
+rgb(73, 73, 151)
+rgb(22, 22, 134)
+lightblue
+560px

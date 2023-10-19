@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://i.ytimg.com/vi/k3ftlbnbwuc/maxresdefault.jpg");background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+h1 {
+  color: white; 
+  text-align: center;
+}
+
+p {
+  background-color: aliceblue; 
+  text-align: center;
+}
+
+div {
+  display:flex; justify-content:center;
+  }
+
+aliceblue
+whitesmoke
+rgb(158, 224, 255)

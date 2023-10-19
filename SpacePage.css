@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(80, 61, 184);
+  background-image: url("https://media.tenor.com/images/8cc0cf2bb7967de4916402f560a3f67f/tenor.gif");
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  text-align: center; 
+  font-size: 40px;
+}
+
+p {
+  background-color: rgba(0, 0, 0, 0.514);
+  border: 2px dotted rgba(253, 253, 253, 0.973);
+  margin: 0px 200px 0px 200px;
+  font-size: 16px;
+  text-align: center;
+  padding: 20px;
+  color: aliceblue;
+}
+
+
+rgb(169, 203, 255)

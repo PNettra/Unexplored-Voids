@@ -1,0 +1,36 @@
+body {
+  background-image: url("https://images.pond5.com/underwater-moonlight-scene-footage-026761540_iconl.jpeg");
+  background-repeat: no-repeat; 
+  background-size: cover;
+  }
+
+
+
+https://i.gifer.com/LwO6.gif
+
+/* .Logo {margin: 0px 0px 0px 410px;} */
+
+/* Try using <center> </center> around your logos in your oceanpage HTML file! -Chloe */
+
+p {color: white}
+
+p {
+  background-color: rgba(4, 98, 153, 0.5);
+  margin: 0px 200px 0px 200px;
+  color: rgb(238, 238, 238); 
+  padding: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 16px;
+  border: 2px dotted aqua;
+}
+
+h1 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
+rgb(148, 28, 204)
+background-color: rgb(107, 188, 255);
